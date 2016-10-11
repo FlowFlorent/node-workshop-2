@@ -1,0 +1,25 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "request JSON",
+  "main": "request-as-json.js",
+  "dependencies": {
+    "longjohn": "^0.2.11",
+    "prompt": "^1.0.0",
+    "request": "^2.75.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlowFlorent/node-workshop-2.git"
+  },
+  "author": "Florent Lefebvre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlowFlorent/node-workshop-2/issues"
+  },
+  "homepage": "https://github.com/FlowFlorent/node-workshop-2#readme"
+}
